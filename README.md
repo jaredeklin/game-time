@@ -32,5 +32,5 @@ The objective of the game is to progess through levels by eliminating all segmen
 
 ### Project Layout
 
-![Main Menu]('./images/centipede-main.png')
-![Game Screen]('./images/game.png')
+![Main Menu](images/centipede-main.png)
+![Game Screen](images/game.png)
