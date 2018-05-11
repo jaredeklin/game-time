@@ -4,8 +4,8 @@
 
 ## Project Contributors
 
-[Jared Eklin](https://github.com/jaredeklin)
-[Patrick McLaughlin](https://github.com/patrickmc21)
+#### Jared Eklin || https://github.com/jaredeklin
+#### Patrick McLaughlin || https://github.com/patrickmc21
 
 ### Project Specs
 
